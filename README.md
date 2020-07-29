@@ -1,2 +1,2 @@
 # Images
-网络图片路径
+Image hosting for mynetdisk.github.io or other sites.

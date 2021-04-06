@@ -1,0 +1,30 @@
+{
+  "name": "Images",
+  "version": "1.0.0",
+  "description": "Image hosting for mynetdisk.github.io or other sites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyNetdisk/Images.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyNetdisk/Images/issues"
+  },
+  "homepage": "https://github.com/MyNetdisk/Images#readme",
+  "devDependencies": {
+    "commitizen": "^4.2.3",
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
